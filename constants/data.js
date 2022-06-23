@@ -42,6 +42,11 @@ const userData = {
       link: "https://github.com/BitGeek29/php-MySQL",
       imgUrl: "/imagelp.png",
     },
+    {
+      title: "MyPortfolio",
+      link: "https://github.com/BitGeek29/myPortfolio_ver0.1",
+      imgUrl: "/imagepf.png",
+    },
   ],
   about: {
     title:
