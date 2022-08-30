@@ -4,8 +4,8 @@ const userData = {
   designation: "Full-Stack Developer",
   avatarUrl: "/avatar.png",
   email: "shaikhhaseeb301@gmail.com",
-  phone: "+971 581591732",
-  address: "Sharjah city, United Arab Emirates",
+  phone: "+91 8830894345",
+  address: "Mimbai City, Maharashtra, India",
   projects: [
     {
       title: "De-Subsidizer",
@@ -63,10 +63,9 @@ const userData = {
   experience: [
     {
       title: "Software Developer",
-      company: "SNA Infotech",
-      year: "2021",
+      company: "Freelance",
       companyLink: "https://mroads.com",
-      desc: "Contributed to our flagship product - Panna - which is an AI powered candidate interviewing product.",
+      desc: "Develop projects on wide technology stacks. Create functional and technological application documents. Brainstorming and planning new upcoming projects. Provide technical assistance to peers in case of a bug. developing admin dashboard for product prototype. ",
     },
     {
       title: "Graduation",
