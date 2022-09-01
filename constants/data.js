@@ -83,8 +83,9 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1Geryx3Imvj0vJyKR8aySrwD8RY0rhW8e/view?usp=sharing",
+    "https://drive.google.com/file/d/17e_92Cumm8omeu0F-taPpur6hqHEcrCD/view?usp=sharing",
   socialLinks: {
+    whatsapp: "https://wa.me/918830894345",
     linkedin: "https://www.linkedin.com/in/bitgeek29/",
     github: "https://github.com/BitGeek29",
   },
