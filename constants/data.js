@@ -62,25 +62,47 @@ const userData = {
   },
   experience: [
     {
-      title: "Software Developer",
-      company: "Freelance",
-      companyLink: "https://mroads.com",
-      desc: "Develop projects on wide technology stacks. Create functional and technological application documents. Brainstorming and planning new upcoming projects. Provide technical assistance to peers in case of a bug. developing admin dashboard for product prototype. ",
+      "title": "Full-stack Developer",
+      "company": "Ikshvaku solutions",
+      "year": "October 2022 - Present",
+      "companyLink": "",
+      "desc": "Develop projects using a wide range of technology stacks. Collaborate in brainstorming and planning sessions for upcoming projects. Manage a team of up to 6 developers for efficient project delivery. Create comprehensive requirements documentation and budgeting reports for clients. Maintain regular communication and build strong relationships with vendors."
     },
     {
-      title: "Graduation",
-      company: "Mumbai University",
-      year: "2022",
-      companyLink: "https://mu.ac.in/",
-      desc: "Major in Computer Science and Bachelor's of Science with a CGPI of 7.9. Nobody asks this but it's okay.",
+      "title": "Python Developer",
+      "company": "Ikshvaku solutions",
+      "year": "May 2022 - October 2022",
+      "companyLink": "",
+      "desc": "Design and develop maintenance and configuration management tools, schedulers, and ETL solutions for server monitoring in a digital marketing supply chain solutions company. Implement JavaScript and JQuery to improve accessibility and create visually appealing designs. Create robust report generation functionality using extensive survey data. Develop a solution to transform and load data from diverse sources into a standardized format for seamless integration with the survey platform."
     },
     {
-      title: "Junior College",
-      company: "Maharastra State Board Of Higher Secondary Education (Pune)",
-      year: "2019",
-      companyLink: "http://www.huzaifasjc.com/",
-      desc: "Subjects being PCM - I barely survived with 6.1 marks aggregate. Flex fridays, fellas.",
+      "title": "Freelance Developer",
+      "company": "",
+      "year": "September 2021 - February 2022",
+      "companyLink": "",
+      "desc": "Collaborated with third-year and second-year college students on freelance development projects, aiding in project conceptualization and documentation. Specialized in projects utilizing cutting-edge technologies such as IoT, Machine Learning applications, and Blockchain. Developed Android applications using Java programming, focusing on features like attendance tracking and encryption."
     },
+    {
+      "title": "Technical Support Specialist",
+      "company": "SNA Infotech Pvt.",
+      "year": "May 2021 - July 2021",
+      "companyLink": "",
+      "desc": "Configure network devices such as switches and routers to ensure smooth network operations. Manage the configuration of Linux and Windows 2012/2016 servers for optimal system performance. Design, build, and implement preventive maintenance plans to proactively address potential issues and enhance system reliability. Oversee the sales and procurement of computer components, hardware, and software peripherals."
+    },
+    {
+      "title": "Graduation",
+      "company": "Mumbai University",
+      "year": "2022",
+      "companyLink": "https://mu.ac.in/",
+      "desc": "Major in Computer Science and Bachelor's of Science with a CGPI of 7.9. Nobody asks this but it's okay."
+    },
+    {
+      "title": "Junior College",
+      "company": "Maharastra State Board Of Higher Secondary Education (Pune)",
+      "year": "2019",
+      "companyLink": "http://www.huzaifasjc.com/",
+      "desc": "Subjects being PCM - I barely survived with 6.1 marks aggregate. Flex fridays, fellas."
+    }
   ],
   resumeUrl:
     "https://drive.google.com/file/d/17e_92Cumm8omeu0F-taPpur6hqHEcrCD/view?usp=sharing",
